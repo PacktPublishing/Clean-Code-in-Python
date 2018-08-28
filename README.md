@@ -23,20 +23,26 @@ If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1788
 alt="https://www.packtpub.com/" border="5" /></a>
 
 ## Instructions and Navigations
-Create a virtual environment, and once activated run the following command:
+Create a virtual environment, and once activated run::
 
-make setup
+    make setup
 
-This will install the common dependencies. Besides this, each chapter might have additional ones, for which another make setup will have to be run inside that particular directory. Each chapter has its corresponding directory given by its number.
+This will install the common dependencies. Besides this, each chapter might
+have additional ones, for which another ``make setup`` will have to be run
+inside that particular directory.
 
-Inside each chapter directory, tests can be run as:
+Each chapter has its corresponding directory given by its number.
 
-make test
+Inside each chapter directory, tests can be run by::
 
-This requires the make application installed (in Unix environments). In environments without access to the make command, the same code can be tested by running the commands on the Makefile:
+    make test
 
-python -m doctest *.py
-python -m unittest *.py
+This requires the ``make`` application installed (in Unix environments).
+In environments without access to the ``make`` command, the same code can be
+tested by running the commands on the ``Makefile``::
+
+    python -m doctest *.py
+    python -m unittest *.py
 
 All of the code is organized into folders. For example, Chapter02.
 
