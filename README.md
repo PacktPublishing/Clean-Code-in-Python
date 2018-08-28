@@ -28,7 +28,7 @@ alt="https://www.packtpub.com/" border="5" /></a>
 
 Create a virtual environment, and once activated run:
 
-    **make setup**
+    make setup
 
 This will install the common dependencies. Besides this, each chapter might
 have additional ones, for which another ``make setup`` will have to be run
@@ -38,7 +38,7 @@ Each chapter has its corresponding directory given by its number.
 
 Inside each chapter directory, tests can be run by:
 
-    *make test*
+    make test
 
 This requires the ``make`` application installed (in Unix environments).
 In environments without access to the ``make`` command, the same code can be
