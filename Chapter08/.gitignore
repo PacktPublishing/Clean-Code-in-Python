@@ -1,0 +1,3 @@
+.coverage
+.hypothesis/
+.pytest_cache/

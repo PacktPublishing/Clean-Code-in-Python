@@ -1,0 +1,7 @@
+-r ../requirements.txt
+coverage==4.5.1
+hypothesis==3.66.4
+MutPy==0.5.1
+pytest-cov==2.5.1
+pytest==3.6.3
+requests==2.19.1

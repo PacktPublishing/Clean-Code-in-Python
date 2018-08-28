@@ -1,0 +1,2 @@
+-r ../requirements.txt
+pytest==3.7.1
