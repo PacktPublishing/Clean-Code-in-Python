@@ -60,14 +60,12 @@ class Point:
 **Following is what you need for this book:**
 This book will appeal to team leads, software architects and senior software engineers who would like to work on their legacy systems to save cost and improve efficiency. A strong understanding of Programming is assumed.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-10).
 ### Software and Hardware List
 | Chapter | Software required | Hardware required |
 | -------- | ------------------------------------ | ----------------------------------- |
 |1, 2, 3, 4, 5, 6, 7, 8, 9, 10  |Python 3.7  |System with 4GB RAM  |
 |10  |Docker  |System with 4GB RAM  |
-
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it]().
 
 ### Related products
 * Secret Recipes of the Python Ninja [[Packt]](https://www.packtpub.com/application-development/secret-recipes-python-ninja?utm_source=github&utm_medium=repository&utm_campaign=9781788294874 ) [[Amazon]](https://www.amazon.com/dp/1788294874)
