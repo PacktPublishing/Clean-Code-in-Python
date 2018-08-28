@@ -23,7 +23,11 @@ If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1788
 alt="https://www.packtpub.com/" border="5" /></a>
 
 ## Instructions and Navigations
-Create a virtual environment, and once activated run::
+
+Setup
+=========
+
+Create a virtual environment, and once activated run:
 
     make setup
 
