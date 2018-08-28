@@ -24,8 +24,7 @@ alt="https://www.packtpub.com/" border="5" /></a>
 
 ## Instructions and Navigations
 
-Setup
-=========
+**Setup**
 
 Create a virtual environment, and once activated run:
 
@@ -37,13 +36,13 @@ inside that particular directory.
 
 Each chapter has its corresponding directory given by its number.
 
-Inside each chapter directory, tests can be run by::
+Inside each chapter directory, tests can be run by:
 
     make test
 
 This requires the ``make`` application installed (in Unix environments).
 In environments without access to the ``make`` command, the same code can be
-tested by running the commands on the ``Makefile``::
+tested by running the commands on the ``Makefile``:
 
     python -m doctest *.py
     python -m unittest *.py
