@@ -65,10 +65,6 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 * Python Programming Blueprints [[Packt]](https://www.packtpub.com/application-development/python-programming-blueprints?utm_source=github&utm_medium=repository&utm_campaign=9781786468161 ) [[Amazon]](https://www.amazon.com/dp/1786468166)
 
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
-
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
-
 ## Get to Know the Author
 **Mariano Anaya**
 is a software engineer who spends most of his time creating software with Python and mentoring fellow programmers. Mariano's main areas of interests besides Python are software architecture, functional programming, distributed systems, and speaking at conferences.
