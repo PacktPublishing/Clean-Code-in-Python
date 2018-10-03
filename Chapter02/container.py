@@ -12,7 +12,7 @@ def mark_coordinate(grid, coord):
 class Boundaries:
     def __init__(self, width, height):
         self.width = width
-        self.height = heigh
+        self.height = height
 
     def __contains__(self, coord):
         x, y = coord
