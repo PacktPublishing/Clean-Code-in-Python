@@ -4,7 +4,7 @@
 """
 
 
-USERS = [(i, f"first_name_{i}", "last_name_{i}") for i in range(1_000)]
+USERS = [(i, f"first_name_{i}", f"last_name_{i}") for i in range(1_000)]
 
 
 class User:
@@ -12,6 +12,8 @@ class User:
         self.user_id = user_id
         self.first_name = first_name
         self.last_name = last_name
+    def __repr__(self):
+        return str(self.user_id) + ' ' + self.first_name + ' ' + self.last_name
 
 
 def bad_users_from_rows(dbrows) -> list:
