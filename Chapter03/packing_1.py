@@ -12,8 +12,9 @@ class User:
         self.user_id = user_id
         self.first_name = first_name
         self.last_name = last_name
+
     def __repr__(self):
-        return str(self.user_id) + ' ' + self.first_name + ' ' + self.last_name
+        return f"{self.__class__.__name__}({self.user_id!r}, {self.first_name!r}, {self.last_name!r})"
 
 
 def bad_users_from_rows(dbrows) -> list:
