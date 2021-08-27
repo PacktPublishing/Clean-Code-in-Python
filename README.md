@@ -57,6 +57,9 @@ class Point:
         self.long = long
 ```
 
+## Errata
+* In Chapter 2, page 41: Add the following import in the code: ```from datetime import date```
+
 **Following is what you need for this book:**
 This book will appeal to team leads, software architects and senior software engineers who would like to work on their legacy systems to save cost and improve efficiency. A strong understanding of Programming is assumed.
 
