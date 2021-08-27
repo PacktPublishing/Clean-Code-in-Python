@@ -3,6 +3,7 @@
 > Iterable Objects
 """
 from datetime import timedelta
+from datetime import date
 
 
 class DateRangeIterable:
